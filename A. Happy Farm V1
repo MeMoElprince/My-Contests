@@ -1,4 +1,3 @@
-```
 /**
  * @author Mustafa Elsharawy
  * @date 2020-08-23
@@ -40,4 +39,3 @@ int main()
     }
     return 0;
 }
-```
